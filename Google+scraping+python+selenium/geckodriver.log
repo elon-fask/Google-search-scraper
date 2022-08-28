@@ -1,0 +1,24 @@
+1661715890343	geckodriver	INFO	Listening on 127.0.0.1:47321
+1661715891049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "47669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekh6gF3"
+*** You are running in headless mode.
+1661715892346	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekh6gF3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47669/devtools/browser/8aa38d38-d322-4b92-b092-4dd026ec81d3
+1661715895402	Marionette	INFO	Listening on port 36997
+1661715895494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1661716007291	geckodriver	INFO	Listening on 127.0.0.1:51731
+1661716008037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "50219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQAeyrb"
+*** You are running in headless mode.
+1661716009490	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQAeyrb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50219/devtools/browser/ccbec253-85b0-47b7-b756-d77f6b908c4a
+1661716014509	Marionette	INFO	Listening on port 41457
+1661716014606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1661718802088	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1661718919244	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1661719998595	geckodriver	INFO	Listening on 127.0.0.1:32819
+1661719999129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "45777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesswoXy"
+*** You are running in headless mode.
+1661720005437	Marionette	INFO	Marionette enabled
